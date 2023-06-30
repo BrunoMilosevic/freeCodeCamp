@@ -10,11 +10,11 @@ dashedName: >-
 
 # --description--
 
-Taking three different letters from the 26 letters of the alphabet, character strings of length three can be formed.
+Якщо взяти три різні літери з 26 літер англійського алфавіту, то можна отримати рядки з трьох символів.
 
-Examples are 'abc', 'hat' and 'zyx'.
+Наприклад, «abc», «hat» та «zyx».
 
-When we study these three examples we see that for 'abc' two characters come lexicographically after its neighbour to the left.
+Якщо подивитись на ці три приклади, то в «abc» два символи стоять за алфавітним порядком після свого сусіда зліва.
 
 For 'hat' there is exactly one character that comes lexicographically after its neighbour to the left. For 'zyx' there are zero characters that come lexicographically after its neighbour to the left.
 
